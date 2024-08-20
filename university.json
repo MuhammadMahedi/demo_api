@@ -1,0 +1,36 @@
+{
+  "teachers": [
+    {"name": "John Doe", "department": "Mathematics"},
+    {"name": "Jane Smith", "department": "Physics"},
+    {"name": "Emily Johnson", "department": "Chemistry"},
+    {"name": "Michael Brown", "department": "Biology"},
+    {"name": "Sarah Davis", "department": "History"},
+    {"name": "David Wilson", "department": "English"},
+    {"name": "Laura Martinez", "department": "Computer Science"},
+    {"name": "James Anderson", "department": "Economics"},
+    {"name": "Mary Taylor", "department": "Sociology"},
+    {"name": "Robert Moore", "department": "Political Science"}
+  ],
+  "students": [
+    {"name": "Alice Green", "semester": 1},
+    {"name": "Bob White", "semester": 2},
+    {"name": "Charlie Black", "semester": 3},
+    {"name": "Daisy Blue", "semester": 4},
+    {"name": "Eve Brown", "semester": 5},
+    {"name": "Frank Gray", "semester": 6},
+    {"name": "Grace Gold", "semester": 7},
+    {"name": "Hank Silver", "semester": 8},
+    {"name": "Ivy Red", "semester": 1},
+    {"name": "Jack Pink", "semester": 2},
+    {"name": "Kelly Orange", "semester": 3},
+    {"name": "Leo Yellow", "semester": 4},
+    {"name": "Mia Purple", "semester": 5},
+    {"name": "Nick Violet", "semester": 6},
+    {"name": "Olivia Indigo", "semester": 7},
+    {"name": "Paul Cyan", "semester": 8},
+    {"name": "Quinn Magenta", "semester": 1},
+    {"name": "Rose Brown", "semester": 2},
+    {"name": "Steve Lime", "semester": 3},
+    {"name": "Tina Teal", "semester": 4}
+  ]
+}
